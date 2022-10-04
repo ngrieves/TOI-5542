@@ -1,5 +1,5 @@
 # TOI-5542
-Analysis code for the discovery of the extrasolar planet [TOI-5542b](https://ui.adsabs.harvard.edu/abs/2022arXiv220914830G/abstract)
+Analysis code (python) for the discovery of the extrasolar planet [TOI-5542b](https://ui.adsabs.harvard.edu/abs/2022arXiv220914830G/abstract) and the latex file to create the paper.
 
 All original data is processed for analysis in global_model/data/
 
